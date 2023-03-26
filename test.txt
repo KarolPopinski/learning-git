@@ -30,5 +30,9 @@ Asdfg
 =======
 POPRAWKA 100!!!!!!
 
+<<<<<<< HEAD
+Qwerty
+>>>>>>> 07a5a1c (qwerty)
+=======
 Qwerty
 >>>>>>> 07a5a1c (qwerty)
