@@ -26,3 +26,9 @@ Poprawka 200!
 
 Asdfg
 
+<<<<<<< HEAD
+=======
+POPRAWKA 100!!!!!!
+
+Qwerty
+>>>>>>> 07a5a1c (qwerty)
