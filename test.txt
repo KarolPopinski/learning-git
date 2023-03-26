@@ -13,7 +13,11 @@ A to dopiero da poprawki
 WOW!!!!!!!!!!!!!!!!!!!
 
 
+<<<<<<< HEAD
 A TO JEST DO TESTING3!!!!!!!!!!!!
 
 
 Poprawka 93!!!!!!!!!!!!!!
+=======
+POPRAWKA AD23
+>>>>>>> 2886563 (poprawka 23)
